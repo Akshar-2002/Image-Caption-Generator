@@ -52,3 +52,16 @@ We also made use of the BLEU scores (BLEU - 1, BLEU - 2, BLEU - 3 and BLEU - 4 w
 The models using the Inception V3 Module take lesser time to train and give better results compared to the VGG16 models.
 
 The models using the LSTM network take slightly more time than the GRU models but give better results.
+
+## Reference
+
+If you use this code for your research, please cite:
+
+```bibtex
+@inproceedings{sharma2019visual,
+  title={Visual image caption generator using deep learning},
+  author={Sharma, Grishma and Kalena, Priyanka and Malde, Nishi and Nair, Aromal and Parkar, Saurabh},
+  booktitle={2nd international conference on advances in Science \& Technology (ICAST)},
+  year={2019}
+}
+
